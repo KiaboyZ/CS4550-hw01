@@ -1,0 +1,29 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Kia Zafar
+
+2. Which VPS & domain providers did you choose?
+domain:namecheap VPS:vultr
+
+3. What domain name did you register?
+kia.town
+
+4. What's the URL of your Github repository for this assignment?
+https://github.com/KiaboyZ/CS4550-hw01
+
+5. Which parts of this assignment did you have trouble with, if any?
+I had trouble with getting the hw01 site up and working due to not fully understanding the file system and how the config file worked. I was also using https instead of http.
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
+ - Task 9
