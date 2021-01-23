@@ -14,7 +14,8 @@ kia.town
 https://github.com/KiaboyZ/CS4550-hw01
 
 5. Which parts of this assignment did you have trouble with, if any?
-I had trouble with getting the hw01 site up and working due to not fully understanding the file system and how the config file worked. I was also using https instead of http.
+I had trouble with getting the hw01 site up and working due to not fully understanding the
+file system and how the config file worked. I was also using https instead of http.
 
 
 And here's a list of tasks for grading comments. Just leave this here:
